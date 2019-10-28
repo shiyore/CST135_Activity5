@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First Project</string>
+    <string name="joke1" >Why did the chicken cross the road?</string>
+    <string name="joke2">How do you find Will Smith in the snow?</string>
+    <string name="joke3">Why do seagulls fly over the sea?</string>
+    <string name="joke4">Why did the banana go to the hospital?</string>
+    <string name="joke5">Why can\'t you trust atoms?</string>
+    <string name="joke6">What did one plate say to the other?</string>
+    <string name="defaultText">*Joke*</string>
+</resources>
